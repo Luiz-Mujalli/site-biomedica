@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Farmácia Biomédica",
+  title: "Drogaria Biomédica",
   description:
-    "Atendimento farmacêutico humanizado, orientação profissional e entrega rápida.",
+    "Sua Saúde em Primeiro Lugar.",
 };
 
 export default function RootLayout({
